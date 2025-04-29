@@ -85,7 +85,7 @@ npx -y @modelcontextprotocol/inspector uv run mcp-server-doctor
 
 访问页面，开始使用奇黄、智草MCP服务
 
-![医疗助手](assets/inspector.png)
+![医疗助手](assets/inspector.jpg)
 
 
 ### 方式二：在客户端中配置

@@ -105,3 +105,7 @@ npx -y @modelcontextprotocol/inspector uv run mcp-server-doctor
     }
   }
 ```
+
+## API Key 获取
+
+需要 API Key 请联系：bd [at] apusai.com
